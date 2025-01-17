@@ -1,1 +1,1 @@
-install in express, cors.
+add dependency in express, cors.
